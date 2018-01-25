@@ -1,2 +1,2 @@
-# Kmovies
+# ruiter/Kmovies
 General studies on android development. Architecture, libraries, patterns ...
